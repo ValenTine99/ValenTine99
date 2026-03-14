@@ -1,4 +1,5 @@
-## Личное IT пространство Обрезаненко Валентины <img src="img/1773508267-image-de128c37.png" width="60" alt="Sticker1">
+## Личное IT пространство Обрезаненко Валентины  
+<img src="img/1773508267-image-de128c37.png" width="60" alt="Sticker1">
 
 🧩 Стек языков: Python, SQL, C++\C#
 
