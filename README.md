@@ -1,4 +1,4 @@
-## Личное IT пространство Обрезаненко Валентины 👀
+## Личное IT пространство Обрезаненко Валентины <img src="img/1773503412-image-de128c37.png" width="60" alt="Sticker1">
 
 🧩 Стек языков: Python, SQL, C++\C#
 
@@ -9,18 +9,18 @@
   
 Но уже сейчас можно что-то небольшое посмотреть:
 
-### 🧪🧪🧪 GWAS-анализ - https://github.com/ValenTine99/GWAS_analisys (🟢)
+### <img src="img/1773503412-image-dca33fe2.png" width="40" alt="Sticker1"> GWAS-анализ - https://github.com/ValenTine99/GWAS_analisys (🟢)
 
 Это пример выполнения тестового задания - нужно было провести предсказание урожайности клеточных линий, код там на питоне, применялась линейная регрессия. 
 
-### 🤖🤖🤖 ИИ ассистент -  https://github.com/ValenTine99/ai_agent (🟢)
+### <img src="img/1773503412-image-1ea55f17.png" width="40" alt="Sticker1"> ИИ ассистент -  https://github.com/ValenTine99/ai_agent (🟢)
 
 Разработка персонального ИИ ассистента через телеграмм-бот на базе n8n
 
-### 🧬🧬🧬 Научная статья - https://www.mdpi.com/2075-4655/10/1/11 (🟢)
+### <img src="img/1773503412-image-3daf3c20.png" width="40" alt="Sticker1"> Научная статья - https://www.mdpi.com/2075-4655/10/1/11 (🟢)
 
 Исследование ретротранспозонов в различных типах рака. 
 
-### <img src="img/1773503412-image-b6c7e1d0.png" width="50" alt="Sticker1"> Рекомендации для правильного питания - https://github.com/ValenTine99/food_nutrition (🟡)
+### <img src="img/1773503412-image-b6c7e1d0.png" width="40" alt="Sticker1"> Рекомендации для правильного питания - https://github.com/ValenTine99/food_nutrition (🟡)
 
 Скоро там что-то появится. 
