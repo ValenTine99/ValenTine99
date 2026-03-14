@@ -1,4 +1,4 @@
-## Личное IT пространство Обрезаненко Валентины <img src="img/1773503412-image-de128c37.png" width="60" alt="Sticker1">
+## Личное IT пространство Обрезаненко Валентины <img src="img/1773508267-image-de128c37.png" width="60" alt="Sticker1">
 
 🧩 Стек языков: Python, SQL, C++\C#
 
@@ -9,15 +9,15 @@
   
 Но уже сейчас можно что-то небольшое посмотреть:
 
-### <img src="img/1773503412-image-dca33fe2.png" width="40" alt="Sticker1"> GWAS-анализ - https://github.com/ValenTine99/GWAS_analisys (🟢)
+### <img src="img/1773503588-image-dca33fe2.png" width="40" alt="Sticker1"> GWAS-анализ - https://github.com/ValenTine99/GWAS_analisys (🟢)
 
 Это пример выполнения тестового задания - нужно было провести предсказание урожайности клеточных линий, код там на питоне, применялась линейная регрессия. 
 
-### <img src="img/1773503412-image-1ea55f17.png" width="40" alt="Sticker1"> ИИ ассистент -  https://github.com/ValenTine99/ai_agent (🟢)
+### <img src="img/1773503588-image-1ea55f17.png" width="40" alt="Sticker1"> ИИ ассистент -  https://github.com/ValenTine99/ai_agent (🟢)
 
 Разработка персонального ИИ ассистента через телеграмм-бот на базе n8n
 
-### <img src="img/1773503412-image-3daf3c20.png" width="40" alt="Sticker1"> Научная статья - https://www.mdpi.com/2075-4655/10/1/11 (🟢)
+### <img src="img/1773503587-image-3daf3c20.png" width="40" alt="Sticker1"> Научная статья - https://www.mdpi.com/2075-4655/10/1/11 (🟢)
 
 Исследование ретротранспозонов в различных типах рака. 
 
