@@ -1,16 +1,14 @@
 ## Обрезаненко Валентина Сергеевна 👋
 
-<!--
-**ValenTine99/ValenTine99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Мой репозиторий на стадии заливки, не все проекты пока оформлены.
+Понять и простить:)
 
-Here are some ideas to get you started:
+Но уже сейчас можно что-то небольшое посмотреть:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GWAS-анализ - https://github.com/ValenTine99/GWAS_analisys
+
+Это пример выполнения тестового задания - нужно было провести предсказание урожайности клеточных линий, код там на питоне, применялась линейная регрессия. 
+
+### https://github.com/ValenTine99/ai_agent
+
+Разработка персонального ИИ ассистента через телеграмм-бот на базе n8n
