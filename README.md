@@ -21,6 +21,6 @@
 
 Исследование ретротранспозонов в различных типах рака. 
 
-### <img src="img/1773503412-image-b6c7e1d0.png" width="10" alt="Sticker1"> Рекомендации для правильного питания - https://github.com/ValenTine99/food_nutrition (🟡)
+### <img src="img/1773503412-image-b6c7e1d0.png" width="50" alt="Sticker1"> Рекомендации для правильного питания - https://github.com/ValenTine99/food_nutrition (🟡)
 
 Скоро там что-то появится. 
